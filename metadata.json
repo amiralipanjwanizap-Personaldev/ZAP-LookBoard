@@ -1,0 +1,9 @@
+{
+  "name": "ZAP LookBoard",
+  "description": "A visual workspace for photographers to create moodboards, lookboards, and photoshoot planning boards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
